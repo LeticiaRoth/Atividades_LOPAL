@@ -24,14 +24,9 @@ with open("meu_arquivo.txt", "r") as arquivo:
 with open("meu_arquivo.txt", "r") as arquivo:
     print(f"Modo 3 \n{arquivo.read()}")
 
-"""
-with open("produtos.csv", "w", newline='') as csvfile:
-    escrever = csv.writer(produto)
-    escrever.writerow("Nome, Preço")
-    escrever.writerow("Livro,Row")
-    for row in produto:
-        escrever.writerow(produto)
-"""
+
+
+
 
 
 
