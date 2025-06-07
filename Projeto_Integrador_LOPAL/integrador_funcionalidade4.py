@@ -47,5 +47,5 @@ else:
     print(msg)
 
 
-    # Envia via navegador (deve estar logado no WhatsApp Web)
+    # Envia pelo navegador, no whatsapp web
     kit.sendwhatmsg(numero, msg, hora, minuto)
