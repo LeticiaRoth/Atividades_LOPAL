@@ -3,10 +3,10 @@
 <p align="center">
   <img src="Logo_LOPAL\LOPAL.png" alt="Ícone de Back-End" width="140">
 </p>
-Este repositório reúne conteúdos e atividades desenvolvidas na disciplina de **Programação Back-End (PBE)**, com foco na lógica de programação, estruturação de código, boas práticas e desenvolvimento de funcionalidades voltadas ao lado servidor das aplicações.
+Este repositório reúne conteúdos e atividades desenvolvidas na disciplina de **Lógica de Programação (LOPAL)**, com foco na lógica de programação, estruturação de código, boas práticas e desenvolvimento de funcionalidades voltadas ao lado servidor das aplicações.
 
 A proposta é consolidar os conhecimentos fundamentais da programação por meio de exercícios práticos, anotações teóricas e desafios relacionados ao desenvolvimento back-end.
----
+
 
 ## 🧠 Conteúdos abordados
 
